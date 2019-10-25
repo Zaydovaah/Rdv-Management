@@ -53,7 +53,9 @@ Clone this repo with : "https://github.com/Zaydovaah/Rdv-Management.git"
 
 For a deployment manual, visit: "https://dev.to/jorenrui/6-ways-to-deploy-your-personal-websites--php-mysql-web-apps-for-free-4m3a"
 
-Bootstrap:
+Bootstrap: "https://getbootstrap.com/"
 
-Datepicker:
+Datepicker: "https://jqueryui.com/datepicker/"
+
+DataTables: "https://datatables.net"
 
