@@ -1,9 +1,6 @@
 
 # Appointments Management App / Rdv-Management
 
-## About / Synopsis
-
-* 
 * Project status: working/prototype
 
 ## Table of contents
