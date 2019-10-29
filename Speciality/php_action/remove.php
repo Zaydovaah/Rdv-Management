@@ -13,7 +13,7 @@ if($query === TRUE) {
 	$output['messages'] = 'Successfully removed';
 } else {
 	$output['success'] = false;
-	$output['messages'] = 'Error while removing the member information';
+	$output['messages'] = 'Error while removing record';
 }
 
 // close database connection
