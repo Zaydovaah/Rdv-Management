@@ -28,7 +28,7 @@ if($_POST) {
 		$validator['messages'] = "Successfully Added";		
 	} else {		
 		$validator['success'] = false;
-		$validator['messages'] = "Error while adding the member information";
+		$validator['messages'] = "Error while adding record";
 	}
 
 	// close the database connection
