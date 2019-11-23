@@ -1,8 +1,8 @@
 <?php 
 
-$servername = "localhost";
-$username = "zaydovaah";
-$password = "Riseofcobra93";
+$servername = "";
+$username = "";
+$password = "";
 $dbname = "RDV_Management";
 
 // create connection
